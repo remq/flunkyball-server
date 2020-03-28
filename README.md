@@ -1,2 +1,3 @@
-# flunkyball-server
+# Flunkyball server
+
 Server for flunkyball.
